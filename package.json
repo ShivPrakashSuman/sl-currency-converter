@@ -1,6 +1,6 @@
 {
   "name": "sl-currency-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm package to convert corrency",
   "main": "index.js",
   "type": "module",
