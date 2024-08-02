@@ -1,0 +1,27 @@
+{
+  "name": "sl-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package to convert corrency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivPrakashSuman/sl-currency-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Shiv Suman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivPrakashSuman/sl-currency-converter/issues"
+  },
+  "homepage": "https://github.com/ShivPrakashSuman/sl-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
