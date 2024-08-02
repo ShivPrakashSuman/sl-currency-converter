@@ -18,7 +18,7 @@ Dependencies (1)
 npm i @everapi/freecurrencyapi-js
 
 
-`Typescript`
+**Typescript**
 
 ```js 
 import { convertCurrency } from "sl-currency-converter";
